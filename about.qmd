@@ -4,4 +4,6 @@ title: "About"
 
 ## About this site
 
-I have created this site as an addendum to my resume to track and share my professional, personal, and educational developments. Special thanks to Randy Swaty of The Nature Conservancy for his assistance in teaching me GitHub, Quarto, and his patience in helping me build this site.
+I have created this site as an addendum to my resume to track and share my professional, personal, and educational developments. 
+
+Special thanks to Randy Swaty of The Nature Conservancy for his assistance in teaching me GitHub, Quarto, and his patience in helping me build this site.
