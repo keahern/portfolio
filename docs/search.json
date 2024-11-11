@@ -2,23 +2,23 @@
   {
     "objectID": "R9Fire.html",
     "href": "R9Fire.html",
-    "title": "Region 9 Historical Fire",
+    "title": "Historic Fire Regime Mapping in USFS Region 9",
     "section": "",
-    "text": "Fire!! yay!!"
+    "text": "This project explores the historic fire regimes across the U.S. Forest Service’s Region 9, focusing on understanding how ecological processes, like natural fires, have historically shaped forest structure and species distribution in the Midwest and Northeastern U.S. Using GIS and historical biophysical settings (BPS) data from LANDFIRE, I analyzed past fire frequencies, intensities, and patterns to better understand the natural role of fire in these ecosystems. These insights contribute to efforts in restoring forest resilience, guiding sustainable land management, and adapting to changing environmental conditions.\nThis project has been instrumental in advancing my technical skills with ArcGIS Pro, a powerful tool widely used in natural resources management. I’ve gained hands-on experience with complex geospatial data analysis, including raster data manipulation and symbology techniques crucial for communicating spatial information. This experience has not only deepened my understanding of ecological processes but also enhanced my ability to apply GIS technology to real-world conservation and land management challenges.\nFind more information about LANDFIRE here."
   },
   {
     "objectID": "R9Fire.html#background",
     "href": "R9Fire.html#background",
-    "title": "Region 9 Historical Fire",
+    "title": "Historic Fire Regime Mapping in USFS Region 9",
     "section": "",
-    "text": "Fire!! yay!!"
+    "text": "This project explores the historic fire regimes across the U.S. Forest Service’s Region 9, focusing on understanding how ecological processes, like natural fires, have historically shaped forest structure and species distribution in the Midwest and Northeastern U.S. Using GIS and historical biophysical settings (BPS) data from LANDFIRE, I analyzed past fire frequencies, intensities, and patterns to better understand the natural role of fire in these ecosystems. These insights contribute to efforts in restoring forest resilience, guiding sustainable land management, and adapting to changing environmental conditions.\nThis project has been instrumental in advancing my technical skills with ArcGIS Pro, a powerful tool widely used in natural resources management. I’ve gained hands-on experience with complex geospatial data analysis, including raster data manipulation and symbology techniques crucial for communicating spatial information. This experience has not only deepened my understanding of ecological processes but also enhanced my ability to apply GIS technology to real-world conservation and land management challenges.\nFind more information about LANDFIRE here."
   },
   {
     "objectID": "R9Fire.html#maps",
     "href": "R9Fire.html#maps",
-    "title": "Region 9 Historical Fire",
+    "title": "Historic Fire Regime Mapping in USFS Region 9",
     "section": "Maps",
-    "text": "Maps\nYahoo"
+    "text": "Maps\n\n\n\nOverview of Region 9 Forests\n\n\n\n\n\nForests in the Great Lakes Area\n\n\n\n\n\nForests with high variation in fire return interval"
   },
   {
     "objectID": "about.html",
@@ -32,6 +32,6 @@
     "href": "index.html",
     "title": "Kelly Ahern’s Portfolio",
     "section": "",
-    "text": "Backpacking Parks Creek, ID\n\n\nI am a motivated upcoming graduate with a B.S. in Biology and multiple seasons of field experience, specializing in ecology and natural resource management. I am skilled in outdoor team operations and have years of hands-on experience in botany, invasive species management, habitat restoration, and ecological data collection. Adept at managing adverse field conditions, I am proficient in using technical tools such as ArcGIS and R/RStudio. I am experienced in field safety, plant identification, and conservation techniques. I am eager to transition my skills to wildland fire management and suppression through the Forest Service Wildland Fire Apprentice Program."
+    "text": "Backpacking Parks Creek, ID\n\n\nI am an upcoming graduate at Northern Michigan University with a B.S. in Biology and multiple seasons of field experience, specializing in ecology and natural resource management. I am skilled in outdoor team operations and have years of hands-on experience in botany, invasive species management, habitat restoration, and ecological data collection. Adept at managing adverse field conditions, I am proficient in using technical tools such as ArcGIS and R/RStudio. I am experienced in field safety, plant identification, and conservation techniques. I am eager to transition my skills to wildland fire management and suppression through the Forest Service Wildland Fire Apprentice Program."
   }
 ]
