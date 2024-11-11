@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Kelly Ahern's Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: R9Fire.qmd
+        text: R9 Fire
+        
+      - about.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: source
+
