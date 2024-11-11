@@ -10,7 +10,8 @@ website:
         text: Home
       - href: R9Fire.qmd
         text: R9 Fire
-        
+      - href: Experience.qmd
+        text: Work Experience
       - about.qmd
 
 format:
