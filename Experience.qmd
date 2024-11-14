@@ -11,7 +11,7 @@ Using ArcGIS Field Maps, I accurately mapped invasive species occurrences in the
 
 Notably, I contributed to habitat restoration efforts for the federally threatened Dwarf lake iris (Iris lacustris), reinforcing my commitment to preserving biodiversity. My role also involved continual learning and professional development, including attending regional training and field trips through the Michigan Invasive Species Coalition.
 
-```{r fig.cap='Marquette County Conservation District'}
+```{r fig.cap='Marquette County Conservation District', echo=FALSE}
 htmltools::tags$iframe(title = "Field Work Photos", src = "mccdcarousel.html", frameborder = "0", width = "100%", height="450")
 ```
 
