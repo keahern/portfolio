@@ -1,10 +1,10 @@
 ---
-title: "Historic Fire Regime Mapping in USFS Region 9"
+title: "Historic Fire Regime Mapping in Northeast United States"
 ---
 
 ## Background
 
-This project explores the historic fire regimes across the U.S. Forest Service’s Region 9, focusing on understanding how ecological processes, like natural fires, have historically shaped forest structure and species distribution in the Midwest and Northeastern U.S. Using GIS and historical biophysical settings (BPS) data from LANDFIRE, I analyzed past fire frequencies, intensities, and patterns to better understand the natural role of fire in these ecosystems. These insights contribute to efforts in restoring forest resilience, guiding sustainable land management, and adapting to changing environmental conditions.
+This project explores the historic fire regimes across the Northeast US, focusing on understanding how ecological processes, like natural fires, have historically shaped forest structure and species distribution in the Midwest and New England. Using GIS and historical biophysical settings (BPS) data from LANDFIRE, I analyzed past fire frequencies, intensities, and patterns to better understand the natural role of fire in these ecosystems. These insights contribute to efforts in restoring forest resilience, guiding sustainable land management, and adapting to changing environmental conditions.
 
 This project has been instrumental in advancing my technical skills with ArcGIS Pro, a powerful tool widely used in natural resources management. I’ve gained hands-on experience with complex geospatial data analysis, including raster data manipulation and symbology techniques crucial for communicating spatial information. This experience has not only deepened my understanding of ecological processes but also enhanced my ability to apply GIS technology to real-world conservation and land management challenges.
 
@@ -12,8 +12,12 @@ Find more information about LANDFIRE [here](https://landfire.gov/).
 
 ## Maps
 
-![Overview of Region 9 Forests](images/DarkGreyOverview.png){ fig-alt="\"ArcGIS Layout of the national forests found in Region 9."}
+![Biophysical Settings (grouped) compared to Fire Return Interval](images/groupveg_fri.png){ fig-alt="\"Two adjacent maps showing vegetation groups and fire return interval of the Eastern US."}
 
-![Forests in the Great Lakes area](images/Great Lakes Region.png){ fig-alt="\"ArcGIS Layout of the national forests found around the Great Lakes."}
+![Overview of Northeast US](images/overview.png){ fig-alt="\"ArcGIS Layout of the FRI for the Northeast US."}
 
-![Forests with high variation in fire return interval](images/High Variation.png){ fig-alt="\"ArcGIS Layout of some national forests found in Region 9."}
+![Vermont](images/vermont.png){ fig-alt="\"ArcGIS Layout of the FRI for Vermont and the surrounding area."}
+
+![Upper Great Lakes](images/michigan.png){ fig-alt="\"ArcGIS Layout of the FRI for Michigan and Wisconsin."}
+
+![Minnesota](images/minnesota.png){ fig-alt="\"ArcGIS Layout of the FRI for Minnesota."}
