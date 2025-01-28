@@ -10,6 +10,8 @@ This project has been instrumental in advancing my technical skills with ArcGIS 
 
 Find more information about LANDFIRE [here](https://landfire.gov/).
 
+The findings of this study were presented at LANDFIRE Open Office hours on January 29th, 2025. Find a recording [here](youtube.com).
+
 ## Maps
 
 ![Biophysical Settings (grouped) compared to Fire Return Interval](images/groupveg_fri.png){ fig-alt="\"Two adjacent maps showing vegetation groups and fire return interval of the Eastern US."}
