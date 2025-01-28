@@ -14,12 +14,12 @@ The findings of this study were presented at LANDFIRE Open Office hours on Janua
 
 ## Maps
 
-![Biophysical Settings (grouped) compared to Fire Return Interval](images/groupveg_fri.png){ fig-alt="\"Two adjacent maps showing vegetation groups and fire return interval of the Eastern US."}
+![Biophysical Settings (grouped) compared to Fire Return Interval](images/groupveg_fri.png){fig-alt="\"Two adjacent maps showing vegetation groups and fire return interval of the Eastern US."}
 
-![Overview of Northeast US](images/overview.png){ fig-alt="\"ArcGIS Layout of the FRI for the Northeast US."}
+![Overview of Northeast US](images/overview.png){fig-alt="\"ArcGIS Layout of the FRI for the Northeast US."}
 
-![Vermont](images/vermont.png){ fig-alt="\"ArcGIS Layout of the FRI for Vermont and the surrounding area."}
+![Vermont](images/vermont.png){fig-alt="\"ArcGIS Layout of the FRI for Vermont and the surrounding area."}
 
-![Upper Great Lakes](images/michigan.png){ fig-alt="\"ArcGIS Layout of the FRI for Michigan and Wisconsin."}
+![Upper Great Lakes](images/michigan.png){fig-alt="\"ArcGIS Layout of the FRI for Michigan and Wisconsin."}
 
-![Minnesota](images/minnesota.png){ fig-alt="\"ArcGIS Layout of the FRI for Minnesota."}
+![Minnesota](images/minnesota.png){fig-alt="\"ArcGIS Layout of the FRI for Minnesota."}
