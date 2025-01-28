@@ -10,8 +10,8 @@ website:
         text: Home
       - href: school.qmd
         text: Education
-      - href: R9Fire.qmd
-        text: R9 Fire
+      - href: Fire project.qmd
+        text: Fire Project
       - href: Experience.qmd
         text: Work Experience
       - about.qmd
