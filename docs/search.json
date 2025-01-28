@@ -4,7 +4,7 @@
     "href": "school.html",
     "title": "Education",
     "section": "",
-    "text": "I have been a student at Northern Michigan University from the fall of 2022 through the fall of 2024. I will be awarded a Bachelors’ of Science degree in Biology with a concentration in Ecology in December of 2024. I have also earned minors in both Earth Science and French."
+    "text": "I was awarded a Bachelors’ of Science degree in Biology with a concentration in Ecology in December of 2024. I also earned minors in Earth Science and French."
   },
   {
     "objectID": "school.html#ecology-courses",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Kelly Ahern’s Portfolio",
     "section": "",
-    "text": "Lolo Pass, ID\n\n\nI am an upcoming graduate at Northern Michigan University with a B.S. in Biology and multiple seasons of field experience, specializing in ecology and natural resource management. I am skilled in outdoor team operations and have years of hands-on experience in botany, invasive species management, habitat restoration, and ecological data collection. Adept at managing adverse field conditions, I am proficient in using technical tools such as ArcGIS and R/RStudio. I am experienced in field safety, plant identification, and conservation techniques. I am eager to learn more about wildland fire management and suppression as I continue my career."
+    "text": "Lolo Pass, ID\n\n\nI am a recent graduate of Northern Michigan University with a B.S. in Biology and multiple seasons of field experience, specializing in ecology and natural resource management. I am skilled in outdoor team operations and have years of hands-on experience in botany, invasive species management, habitat restoration, and ecological data collection. Adept at managing adverse field conditions, I am proficient in using technical tools such as ArcGIS and R/RStudio. I am experienced in field safety, plant identification, and conservation techniques."
   },
   {
     "objectID": "about.html",
@@ -89,5 +89,26 @@
     "title": "Historic Fire Regime Mapping in USFS Region 9",
     "section": "Maps",
     "text": "Maps\n\n\n\nOverview of Region 9 Forests\n\n\n\n\n\nForests in the Great Lakes area\n\n\n\n\n\nForests with high variation in fire return interval"
+  },
+  {
+    "objectID": "Fire Project.html",
+    "href": "Fire Project.html",
+    "title": "Historic Fire Regime Mapping in Northeast United States",
+    "section": "",
+    "text": "This project explores the historic fire regimes across the Northeast US, focusing on understanding how ecological processes, like natural fires, have historically shaped forest structure and species distribution in the Midwest and New England. Using GIS and historical biophysical settings (BPS) data from LANDFIRE, I analyzed past fire frequencies, intensities, and patterns to better understand the natural role of fire in these ecosystems. These insights contribute to efforts in restoring forest resilience, guiding sustainable land management, and adapting to changing environmental conditions.\nThis project has been instrumental in advancing my technical skills with ArcGIS Pro, a powerful tool widely used in natural resources management. I’ve gained hands-on experience with complex geospatial data analysis, including raster data manipulation and symbology techniques crucial for communicating spatial information. This experience has not only deepened my understanding of ecological processes but also enhanced my ability to apply GIS technology to real-world conservation and land management challenges.\nFind more information about LANDFIRE here.\nThe findings of this study were presented at LANDFIRE Open Office hours on January 29th, 2025. Find a recording here."
+  },
+  {
+    "objectID": "Fire Project.html#background",
+    "href": "Fire Project.html#background",
+    "title": "Historic Fire Regime Mapping in Northeast United States",
+    "section": "",
+    "text": "This project explores the historic fire regimes across the Northeast US, focusing on understanding how ecological processes, like natural fires, have historically shaped forest structure and species distribution in the Midwest and New England. Using GIS and historical biophysical settings (BPS) data from LANDFIRE, I analyzed past fire frequencies, intensities, and patterns to better understand the natural role of fire in these ecosystems. These insights contribute to efforts in restoring forest resilience, guiding sustainable land management, and adapting to changing environmental conditions.\nThis project has been instrumental in advancing my technical skills with ArcGIS Pro, a powerful tool widely used in natural resources management. I’ve gained hands-on experience with complex geospatial data analysis, including raster data manipulation and symbology techniques crucial for communicating spatial information. This experience has not only deepened my understanding of ecological processes but also enhanced my ability to apply GIS technology to real-world conservation and land management challenges.\nFind more information about LANDFIRE here.\nThe findings of this study were presented at LANDFIRE Open Office hours on January 29th, 2025. Find a recording here."
+  },
+  {
+    "objectID": "Fire Project.html#maps",
+    "href": "Fire Project.html#maps",
+    "title": "Historic Fire Regime Mapping in Northeast United States",
+    "section": "Maps",
+    "text": "Maps\n\n\n\nBiophysical Settings (grouped) compared to Fire Return Interval\n\n\n\n\n\nOverview of Northeast US\n\n\n\n\n\nVermont\n\n\n\n\n\nUpper Great Lakes\n\n\n\n\n\nMinnesota"
   }
 ]
