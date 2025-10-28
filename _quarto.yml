@@ -10,7 +10,7 @@ website:
         text: Home
       - href: school.qmd
         text: Education
-      - href: Fire project.qmd
+      - href: FireProject.qmd
         text: Fire Project
       - href: Experience.qmd
         text: Work Experience
