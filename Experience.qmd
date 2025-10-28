@@ -7,6 +7,8 @@ I have spent multiple seasons conducting field work, both in Michigan's Upper Pe
 
 I worked for the National Park Service's Klamath Inventory and Monitoring Network based out of Southern Oregon University in Ashland, Oregon. As a vegetation monitoring technician, I collected data on and remonumented long-term monitoring plots. My crew and I navigated to pre-determined plots at Whiskeytown National Recreation Area and Lassen Volcanic National Park in northern California. We collected data on 1000^2^m plots, including
 
+:::::: columns
+::: {.column width="45%"}
 -   Species Presence or Absence
 -   Tree and Snag Diameter and Density
 -   Tree Crown Position
@@ -15,7 +17,13 @@ I worked for the National Park Service's Klamath Inventory and Monitoring Networ
 -   Tree Seedling Density
 -   Tree and Shrub Mortality
 -   Woody Debris Size and Decay Class
+:::
 
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
 -   Canopy Height
 -   Fuels
 -   Disturbance
@@ -24,6 +32,8 @@ I worked for the National Park Service's Klamath Inventory and Monitoring Networ
 -   Slope
 -   Aspect
 -   Vegetation Type
+:::
+::::::
 
 ## McCall, Idaho
 
