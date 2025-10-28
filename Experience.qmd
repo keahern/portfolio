@@ -5,7 +5,7 @@ I have spent multiple seasons conducting field work, both in Michigan's Upper Pe
 
 ## Ashland, Oregon
 
-I worked for the National Park Service's Klamath Inventory and Monitoring Network based out of Southern Oregon University in Ashland, Oregon. As a vegetation monitoring technician, I collected data on and remonumented long-term monitoring plots. My crew and I navigated to pre-determined plots at Whiskeytown National Recreation Area and Lassen Volcanic National Park in northern California. We collected data on 1000^2^m plots, including
+I worked for the National Park Service's Klamath Inventory and Monitoring Network (KLMN) based out of Southern Oregon University in Ashland, Oregon. As a vegetation monitoring technician, I collected data on and remonumented long-term monitoring plots. My crew and I navigated to pre-determined plots at Whiskeytown National Recreation Area and Lassen Volcanic National Park in northern California. We collected data on 1000^2^m plots, including-
 
 :::::: columns
 ::: {.column width="45%"}
@@ -34,6 +34,12 @@ I worked for the National Park Service's Klamath Inventory and Monitoring Networ
 -   Vegetation Type
 :::
 ::::::
+
+```{r fig.cap='Payette National Forest', echo=FALSE}
+htmltools::tags$iframe(title = "Field Work Photos", src = "pnfcarousel.html", frameborder = "0", width = "100%", height="450")
+```
+
+This data is used for a variety of projects from the KLMN, including reports on park health and other external publications. We visit plots once every three years, allowing for the monitoring of trends in vegetation composition and vegetation structure and function (including parameters affecting wildlife habitat, fire behavior, and stand dynamics), while still maintaining sensitivity to detect non-linear shifts in vegetation. 
 
 ## McCall, Idaho
 
