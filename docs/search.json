@@ -67,7 +67,14 @@
     "href": "Experience.html",
     "title": "Experience",
     "section": "",
-    "text": "I have spent multiple seasons conducting field work, in Michigan’s Upper Peninsula, in central Northern Idaho, and on the west coast of the United States."
+    "text": "I have spent several seasons conducting field work, in Michigan’s Upper Peninsula, in central Northern Idaho, and on the west coast of the United States."
+  },
+  {
+    "objectID": "Experience.html#western-nevada",
+    "href": "Experience.html#western-nevada",
+    "title": "Experience",
+    "section": "Western Nevada",
+    "text": "Western Nevada\nI worked for the University of Montana O’Connor Center for the Rocky Mountain West, performing wetland surveys as part of the Bureau of Land Management’s Wetland and Riparian Assessment, Inventory, and Monitoring program. As one of the botanists for our OCRMW crews, I identified vascular species on our plots using a variety of dichotomous keys, most notably The Jepson Manual and Intermountain Flora: Volume 6. All specimens that were unable to be identified in the field were collected and pressed for further identification.\nI also assisted with plot establishment based on extent of hydrophitic vegetation, soil characterization and identification of hydric soil indicators, and assessment and characterization of hydrological features."
   },
   {
     "objectID": "Experience.html#ashland-oregon",
@@ -95,6 +102,6 @@
     "href": "index.html",
     "title": "Kelly Ahern’s Portfolio",
     "section": "",
-    "text": "Lolo Pass, ID\n\n\nI am a Master’s student at Université du Québec en Abitibi-Temiscamingue, located in Rouyn-Noranda, Québec. My degree is in ecology and management of forest ecosystems. I am currently pursuing a research degree focusing on carbon storage in old-growth boreal forest. I hold a B.S. in Biology with a concentration in Ecology from Northern Michigan University, and I have multiple seasons of field work experience. Most of my career has focused on understory botany in various ecosystems throughout the United States. I am experienced with vascular plant identification, ecological data collection, and invasive species management techniques. I am proficient in various softwares, including Field Maps, ArcGIS, and R/Rstudio."
+    "text": "Lolo Pass, ID\n\n\nI am a Master’s student at Université du Québec en Abitibi-Temiscamingue, located in Rouyn-Noranda, Québec. My degree is in ecology and management of forest ecosystems. I am currently pursuing a research degree focusing on carbon storage in old-growth boreal forest.\n\nI hold a B.S. in Biology with a concentration in Ecology from Northern Michigan University, and I have multiple seasons of field work experience. Most of my career has focused on understory botany in various ecosystems throughout the United States.\n\nI am experienced with vascular plant identification, ecological data collection, and invasive species management techniques. I am proficient in various softwares, including Field Maps, ArcGIS, and R/Rstudio."
   }
 ]
