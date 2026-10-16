@@ -2,28 +2,40 @@
 title: "Education"
 ---
 
-I was awarded a Bachelors' of Science degree in Biology with a concentration in Ecology in December of 2024. I also earned minors in Earth Science and French.
+## UQAT IRF
 
-## Ecology Courses
+I am currently working to obtain my M.S. at Université du Québec en Abitibi-Temiscamingue (UQAT). My degree is in écologie et aménagement des écosystèmes forestiers (ecology and management of forest ecosystems). At UQAT, I am part of the l'Institut de recherche sur les forêts (IRF, Forest research institute). Under the supervision of Maxence Martin and Xavier Cavard, I am studying the regeneration of carbon in old-growth boreal forests after they have been harvested for the first time.
 
--   BI 210 Principles of Ecology
--   BI 240 Conservation Biology
--   BI 310 Ecology Theory and Methods
--   BI 428 Behavioral Ecology
--   BI 434 Plant Ecology
+## Anticipated Graduate Coursework
 
-## Botany
+-   Analyses et modélisation des données écologiques (Analysis and modeling of ecological data)
+-   Engagement communautaire (Community engagement)
+-   Communication scientifique et vulgarisation (Scientific communication and outreach)
+-   Dendroécologie (Dendroecology)
+-   Aménagement des écosystèmes forestiers (Forest ecosystem management)
 
--   BI 230 Plant Kingdom
--   BI 234 Field Mycology
--   BI 431 Plant Physiology
--   BI 433 Boreal Flora
--   BI 434 Plant Ecology
+## Northern Michigan University
 
-## Earth Science
+I was awarded a Bachelors' of Science degree in Biology with a concentration in Ecology in December of 2024. I also earned minors in Earth Science and French. During my studies at Northern Michigan University, I was introduced to scientific research through courses like Ecology Theory and Methods and Plant Ecology. These courses followed the scientific process from beginning to end- from developing a question and collecting data to analyzing and presenting results. I also gained a deep appreciation for boreal ecosystems during my time at Northern through several field-based courses, during which I had the opportunity to closely study the forest in a structured yet open-ended manner.
 
--   GC 202 Soils
--   GC 255 Physical Geology
--   GC 335 Geographic Information Systems
--   GC 385 Weather and Climate
--   GC 390 Oceanography
+```{r fig.cap='Natural areas around Marquette, Michigan', echo=FALSE}
+htmltools::tags$iframe(title = "Lab work photos", src = "MQTcarousel.html", frameborder = "0", width = "100%", height="450")
+```
+
+## Undergraduate Botany and Ecology Coursework
+
+-   Principles of Ecology
+-   Plant Kingdom
+-   Conservation Biology
+-   Ecology Theory and Methods
+-   Plant Physiology
+-   Boreal Flora
+-   Plant Ecology
+
+## Undergraduate Earth Science Coursework
+
+-   Soils
+-   Physical Geology
+-   Geographic Information Systems
+-   Weather and Climate
+-   Oceanography
