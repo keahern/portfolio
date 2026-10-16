@@ -6,7 +6,7 @@ title: "Education"
 
 I am currently working to obtain my M.S. at Université du Québec en Abitibi-Temiscamingue (UQAT). My degree is in écologie et aménagement des écosystèmes forestiers (ecology and management of forest ecosystems). At UQAT, I am part of the l'Institut de recherche sur les forêts (IRF, Forest research institute). Under the supervision of Maxence Martin and Xavier Cavard, I am studying the regeneration of carbon in old-growth boreal forests after they have been harvested for the first time.
 
-## Anticipated Graduate Coursework
+#### Anticipated Graduate Coursework
 
 -   Analyses et modélisation des données écologiques (Analysis and modeling of ecological data)
 -   Engagement communautaire (Community engagement)
@@ -22,7 +22,7 @@ I was awarded a Bachelors' of Science degree in Biology with a concentration in 
 htmltools::tags$iframe(title = "Lab work photos", src = "MQTcarousel.html", frameborder = "0", width = "100%", height="450")
 ```
 
-## Undergraduate Botany and Ecology Coursework
+#### Undergraduate Botany and Ecology Coursework
 
 -   Principles of Ecology
 -   Plant Kingdom
@@ -32,7 +32,7 @@ htmltools::tags$iframe(title = "Lab work photos", src = "MQTcarousel.html", fram
 -   Boreal Flora
 -   Plant Ecology
 
-## Undergraduate Earth Science Coursework
+#### Undergraduate Earth Science Coursework
 
 -   Soils
 -   Physical Geology
