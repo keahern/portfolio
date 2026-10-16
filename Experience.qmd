@@ -9,6 +9,10 @@ I worked for the University of Montana O'Connor Center for the Rocky Mountain We
 
 I also assisted with plot establishment based on extent of hydrophitic vegetation, soil characterization and identification of hydric soil indicators, and assessment and characterization of hydrological features. 
 
+```{r fig.cap='Western Nevada, including sites near Beatty, Tonopah, and Winnemucca', echo=FALSE}
+htmltools::tags$iframe(title = "Field Work Photos", src = "AIMcarousel.html", frameborder = "0", width = "100%", height="450")
+```
+
 ## Ashland, Oregon
 
 I worked for the National Park Service's Klamath Inventory and Monitoring Network (KLMN) based out of Southern Oregon University in Ashland, Oregon. As a vegetation monitoring technician, I collected data on and remonumented long-term monitoring plots. My crew and I navigated to pre-determined plots at Whiskeytown National Recreation Area and Lassen Volcanic National Park in northern California. We collected data on 1000^2^m plots, including-
