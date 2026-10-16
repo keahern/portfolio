@@ -2,7 +2,7 @@
 title: "Kelly Ahern's Portfolio"
 ---
 
-![Lolo Pass, ID](images/Cinder cone.JPEG){style="float:right; margin-left: 5%; fig-align:right; width:55%;" fig-alt="\"Photo of Kelly Ahern in a green shirt with Lassen Peak in the Background."}
+![Lassen National Park, CA](images/Cinder cone.JPEG){style="float:right; margin-left: 5%; fig-align:right; width:100%;" fig-alt="\"Photo of Kelly Ahern in a green shirt with Lassen Peak in the Background."}
 
 I am a Master's student at Université du Québec en Abitibi-Temiscamingue, located in Rouyn-Noranda, Québec. My degree is in ecology and management of forest ecosystems. I am currently pursuing a research degree focusing on carbon storage in old-growth boreal forest.
 
